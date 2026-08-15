@@ -1,1 +1,1 @@
-# My first pset
+print("Hello, World!")
